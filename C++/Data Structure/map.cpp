@@ -14,7 +14,7 @@ int main()
        m[ch]++;
    }
    cout<<"Character count: "<<endl;
-   for(auto x:m)
+   for(x=0;x++;x<m)
    {
        cout<<x.first<<" = "<<x.second<<endl;
    }
